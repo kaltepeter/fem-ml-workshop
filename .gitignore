@@ -15,3 +15,4 @@ solutions/*/dist
 solutions/*/.parcel-cache
 solutions/*/.package-lock.json
 
+data
